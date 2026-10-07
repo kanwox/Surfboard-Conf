@@ -12,8 +12,6 @@
 https://raw.githubusercontent.com/kanwox/Surfboard-Conf/main/Surfboard.conf
 ```
 
-> 💡 **提示**：如果网络访问 GitHub Raw 较慢，可使用加速镜像导入（如 `https://ghproxy.net/https://raw.githubusercontent.com/...`）。
-
 ---
 
 ## ⚡ 核心亮点
